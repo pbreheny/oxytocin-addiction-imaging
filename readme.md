@@ -1,1 +1,5 @@
-Data and code necessary to reproduce the analyses in the manuscript "Intranasal Oxytocin Results in Increased Head Motion During Functional MRI Scanning", by Sydney Houlton, Jatin Vaidya, Patrick Breheny, and Lane Strathearn.
+Data and code necessary to reproduce the analyses in the manuscript:
+
+**Intranasal Oxytocin Increases Head Motion During Functional MRI Scanning**
+
+*Sydney Houlton, Jatin Vaidya, Patrick Breheny, and Lane Strathearn*
